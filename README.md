@@ -1,5 +1,5 @@
 # Velocity4GeneralAnisotropicMedium
-author: LI XingWang, Chang'an University
+author: LI XingWang, Chang'an University 
 
 e-mail: lixingwang@chd.edu.cn
 
